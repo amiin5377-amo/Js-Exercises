@@ -5,3 +5,6 @@ console.log("Fetched user data:", userData);
 }
 
 fetchUserData();
+
+
+
